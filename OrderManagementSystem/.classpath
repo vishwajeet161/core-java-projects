@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/vishwajeet161/Downloads/db-derby-10.17.1.0-lib/lib/derbytools.jar"/>
+	<classpathentry kind="lib" path="/home/vishwajeet161/Downloads/db-derby-10.17.1.0-lib/lib/derbynet.jar"/>
+	<classpathentry kind="lib" path="/home/vishwajeet161/Downloads/db-derby-10.17.1.0-lib/lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="/home/vishwajeet161/Downloads/db-derby-10.17.1.0-lib/lib/derby.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

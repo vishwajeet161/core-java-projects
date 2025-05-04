@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Apr 28 23:54:50 IST 2025D001 : [0] The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217), [1] a816c00e-0196-7da5-08ff-00000727c740, [2] /home/vishwajeet161/orderdb, [3] jdk.internal.loader.ClassLoaders$AppClassLoader@3feba861, [4] file:/home/vishwajeet161/Downloads/db-derby-10.17.1.0-lib/lib/derby.jar
+java.vendor=Ubuntu
+java.runtime.version=21.0.6+7-Ubuntu-124.04.1
+user.dir=/home/vishwajeet161/eclipse-workspace/OrderManagementSystem
+os.name=Linux
+os.arch=amd64
+os.version=6.8.0-58-generic
+derby.system.home=null
+C005 : [0] 
